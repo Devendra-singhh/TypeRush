@@ -1,4 +1,4 @@
-# ⌨️ TypeRush - Typing Speed Test
+# ⌨️ TypeRush - Typing Speed Test -->http://127.0.0.1:5500
 
 TypeRush is a sleek and responsive web application to test and improve your typing speed. Track your words per minute (WPM), accuracy, and compete on the leaderboard. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no fuss!
 
