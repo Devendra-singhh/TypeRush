@@ -28,5 +28,4 @@ TypeRush is a sleek and responsive web application to test and improve your typi
 
 ---
 
-## 📁 Project Structure
 
