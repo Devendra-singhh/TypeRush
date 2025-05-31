@@ -28,4 +28,10 @@ TypeRush is a sleek and responsive web application to test and improve your typi
 
 ---
 
+## 🌐 Live Demo
+
+👉 [View on GitHub Pages] (https://devendra-singhh.github.io/TypeRush/)
+👉 [View on Vercel] (https://type-rush-qxikucdu5-devendra-singhhs-projects.vercel.app)
+
+---
 
